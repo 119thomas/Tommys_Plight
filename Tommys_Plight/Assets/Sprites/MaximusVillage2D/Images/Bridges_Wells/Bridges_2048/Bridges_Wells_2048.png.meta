@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: a5393416ee2c6db48b86367c86ebd72d
+timeCreated: 1472208946
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bridges_Wells_2048_0
+    21300002: Bridges_Wells_2048_1
+    21300004: Bridges_Wells_2048_2
+    21300006: Bridges_Wells_2048_3
+    21300008: Bridges_Wells_2048_4
+    21300010: Bridges_Wells_2048_5
+    21300012: Bridges_Wells_2048_6
+    21300014: Bridges_Wells_2048_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1704
+        width: 1905
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1265
+        width: 1042
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_2
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1487
+        width: 364
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_3
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1495
+        width: 364
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 875
+        width: 390
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 81
+        width: 1515
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 388
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bridges_Wells_2048_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 89
+        width: 364
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

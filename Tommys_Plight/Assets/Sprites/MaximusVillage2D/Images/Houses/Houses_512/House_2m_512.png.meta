@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 89ded9fbbc78bd5488e6d5f0fd0a239f
+timeCreated: 1463262942
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: House_2m_512_0
+    21300002: House_2m_512_1
+    21300004: House_2m_512_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: House_2m_512_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 323
+        width: 345
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: -91}
+        - {x: 133.5, y: -82}
+        - {x: 131.5, y: -38}
+        - {x: 154.5, y: -30}
+        - {x: 158.5, y: -18}
+        - {x: 172.5, y: 68}
+        - {x: 172.5, y: 84}
+        - {x: 121.5, y: 84}
+        - {x: 81.5, y: 82}
+        - {x: -5.5, y: 82}
+        - {x: -132.5, y: 92}
+        - {x: -172.5, y: 92}
+        - {x: -172.5, y: 77}
+        - {x: -153.5, y: -29}
+        - {x: -135.5, y: -46}
+        - {x: -134.5, y: -91}
+        - {x: -132.5, y: -92}
+        - {x: 131.5, y: -92}
+    - name: House_2m_512_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 340
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170, y: -11}
+        - {x: 155, y: 72}
+        - {x: 111, y: 72}
+        - {x: 85, y: 71}
+        - {x: 85, y: 69}
+        - {x: -49, y: 70}
+        - {x: -100, y: 72}
+        - {x: -151, y: 72}
+        - {x: -170, y: -23}
+        - {x: -170, y: -35}
+        - {x: -160, y: -37}
+        - {x: -133, y: -72}
+        - {x: 130, y: -72}
+        - {x: 132, y: -32}
+        - {x: 157, y: -35}
+        - {x: 170, y: -33}
+    - name: House_2m_512_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 325
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: -32.5}
+        - {x: 152.5, y: -4.5}
+        - {x: 162.5, y: 62.5}
+        - {x: 162.5, y: 78.5}
+        - {x: 118.5, y: 78.5}
+        - {x: 3.5, y: 72.5}
+        - {x: -156.5, y: 78.5}
+        - {x: -162.5, y: 78.5}
+        - {x: -162.5, y: 47.5}
+        - {x: -152.5, y: -3.5}
+        - {x: -131.5, y: -3.5}
+        - {x: -133.5, y: -77.5}
+        - {x: -132.5, y: -78.5}
+        - {x: 135.5, y: -78.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

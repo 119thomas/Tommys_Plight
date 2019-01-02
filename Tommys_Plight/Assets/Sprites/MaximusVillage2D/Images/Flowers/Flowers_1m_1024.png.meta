@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 5460856fa8de65d418a36ff914085942
+timeCreated: 1464624810
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flowers_1m_1024_0
+    21300002: Flowers_1m_1024_1
+    21300004: Flowers_1m_1024_2
+    21300006: Flowers_1m_1024_3
+    21300008: Flowers_1m_1024_4
+    21300010: Flowers_1m_1024_5
+    21300012: Flowers_1m_1024_6
+    21300014: Flowers_1m_1024_7
+    21300016: Flowers_1m_1024_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flowers_1m_1024_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 626
+        width: 449
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206.5, y: -94.5}
+        - {x: 224.5, y: -79.5}
+        - {x: 224.5, y: -16.5}
+        - {x: 205.5, y: 46.5}
+        - {x: 161.5, y: 88.5}
+        - {x: 124.5, y: 129.5}
+        - {x: 90.5, y: 158.5}
+        - {x: 22.5, y: 187.5}
+        - {x: 2.5, y: 187.5}
+        - {x: -2.5, y: 182.5}
+        - {x: -14.5, y: 175.5}
+        - {x: -31.5, y: 158.5}
+        - {x: -43.5, y: 179.5}
+        - {x: -176.5, y: 113.5}
+        - {x: -205.5, y: 62.5}
+        - {x: -224.5, y: 30.5}
+        - {x: -224.5, y: -16.5}
+        - {x: -217.5, y: -21.5}
+        - {x: -208.5, y: -20.5}
+        - {x: -206.5, y: -18.5}
+        - {x: -200.5, y: -18.5}
+        - {x: -206.5, y: -19.5}
+        - {x: -208.5, y: -21.5}
+        - {x: -224.5, y: -36.5}
+        - {x: -224.5, y: -89.5}
+        - {x: -188.5, y: -99.5}
+        - {x: -182.5, y: -99.5}
+        - {x: -180.5, y: -97.5}
+        - {x: -178.5, y: -97.5}
+        - {x: -179.5, y: -97.5}
+        - {x: -181.5, y: -99.5}
+        - {x: -183.5, y: -99.5}
+        - {x: -185.5, y: -101.5}
+        - {x: -186.5, y: -104.5}
+        - {x: -178.5, y: -139.5}
+        - {x: -121.5, y: -177.5}
+        - {x: -80.5, y: -167.5}
+        - {x: -41.5, y: -187.5}
+        - {x: 3.5, y: -187.5}
+        - {x: 47.5, y: -168.5}
+        - {x: 82.5, y: -187.5}
+        - {x: 124.5, y: -187.5}
+        - {x: 147.5, y: -181.5}
+        - {x: 191.5, y: -136.5}
+    - name: Flowers_1m_1024_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 677
+        width: 340
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -112.5}
+        - {x: 170, y: -77.5}
+        - {x: 170, y: -24.5}
+        - {x: 168, y: -10.5}
+        - {x: 128, y: 16.5}
+        - {x: 130, y: 36.5}
+        - {x: 118, y: 53.5}
+        - {x: 74, y: 104.5}
+        - {x: 18, y: 114.5}
+        - {x: 3, y: 125.5}
+        - {x: -24, y: 125.5}
+        - {x: -117, y: 80.5}
+        - {x: -140, y: 35.5}
+        - {x: -170, y: -36.5}
+        - {x: -170, y: -60.5}
+        - {x: -166, y: -77.5}
+        - {x: -100, y: -111.5}
+        - {x: -81, y: -91.5}
+        - {x: -18, y: -125.5}
+        - {x: 2, y: -125.5}
+        - {x: 20, y: -113.5}
+        - {x: 66, y: -114.5}
+        - {x: 79, y: -125.5}
+        - {x: 103, y: -125.5}
+    - name: Flowers_1m_1024_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 392
+        width: 253
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 90}
+        - {x: -110.5, y: 51}
+        - {x: -126.5, y: 14}
+        - {x: -126.5, y: -32}
+        - {x: -122.5, y: -42}
+        - {x: -56.5, y: -76}
+        - {x: -14.5, y: -90}
+        - {x: 68.5, y: -90}
+        - {x: 116.5, y: -65}
+        - {x: 126.5, y: -52}
+        - {x: 126.5, y: 35}
+        - {x: 38.5, y: 90}
+    - name: Flowers_1m_1024_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 416
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 51}
+        - {x: -41, y: 42}
+        - {x: -55, y: 20}
+        - {x: -55, y: -8}
+        - {x: -50, y: -23}
+        - {x: -22, y: -43}
+        - {x: -5, y: -51}
+        - {x: 35, y: -51}
+        - {x: 55, y: -35}
+        - {x: 55, y: 43}
+        - {x: 45, y: 51}
+    - name: Flowers_1m_1024_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 438
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+    - name: Flowers_1m_1024_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 435
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+    - name: Flowers_1m_1024_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 435
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+    - name: Flowers_1m_1024_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 435
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 25.5}
+        - {x: -27.5, y: -18.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 27.5, y: 25.5}
+    - name: Flowers_1m_1024_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 995
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 497.5, y: -131}
+        - {x: 497.5, y: -68}
+        - {x: 477.5, y: -37}
+        - {x: 480.5, y: -31}
+        - {x: 483.5, y: -22}
+        - {x: 475.5, y: -4}
+        - {x: 484.5, y: -4}
+        - {x: 476.5, y: 12}
+        - {x: 452.5, y: 23}
+        - {x: 439.5, y: 46}
+        - {x: 429.5, y: 46}
+        - {x: 426.5, y: 45}
+        - {x: 426.5, y: 42}
+        - {x: 424.5, y: 51}
+        - {x: 427.5, y: 63}
+        - {x: 374.5, y: 100}
+        - {x: 360.5, y: 125}
+        - {x: 357.5, y: 127}
+        - {x: 353.5, y: 124}
+        - {x: 357.5, y: 128}
+        - {x: 357.5, y: 132}
+        - {x: 347.5, y: 137}
+        - {x: 329.5, y: 140}
+        - {x: 324.5, y: 145}
+        - {x: 295.5, y: 160}
+        - {x: 280.5, y: 173}
+        - {x: 266.5, y: 167}
+        - {x: 253.5, y: 170}
+        - {x: 251.5, y: 170}
+        - {x: 244.5, y: 175}
+        - {x: 246.5, y: 172}
+        - {x: 244.5, y: 175}
+        - {x: 237.5, y: 175}
+        - {x: 227.5, y: 155}
+        - {x: 231.5, y: 164}
+        - {x: 227.5, y: 175}
+        - {x: 194.5, y: 175}
+        - {x: 190.5, y: 171}
+        - {x: 189.5, y: 175}
+        - {x: 182.5, y: 175}
+        - {x: 166.5, y: 168}
+        - {x: 150.5, y: 173}
+        - {x: 138.5, y: 173}
+        - {x: 126.5, y: 172}
+        - {x: 123.5, y: 167}
+        - {x: 121.5, y: 161}
+        - {x: 122.5, y: 167}
+        - {x: 121.5, y: 170}
+        - {x: 114.5, y: 168}
+        - {x: 99.5, y: 171}
+        - {x: 74.5, y: 165}
+        - {x: 59.5, y: 166}
+        - {x: 33.5, y: 158}
+        - {x: 14.5, y: 158}
+        - {x: 0.5, y: 149}
+        - {x: -1.5, y: 141}
+        - {x: -7.5, y: 143}
+        - {x: -10.5, y: 142}
+        - {x: -10.5, y: 136}
+        - {x: -12.5, y: 139}
+        - {x: -16.5, y: 139}
+        - {x: -34.5, y: 133}
+        - {x: -59.5, y: 128}
+        - {x: -97.5, y: 110}
+        - {x: -114.5, y: 112}
+        - {x: -135.5, y: 117}
+        - {x: -145.5, y: 118}
+        - {x: -146.5, y: 115}
+        - {x: -146.5, y: 113}
+        - {x: -146.5, y: 114}
+        - {x: -147.5, y: 117}
+        - {x: -152.5, y: 119}
+        - {x: -189.5, y: 106}
+        - {x: -190.5, y: 111}
+        - {x: -210.5, y: 114}
+        - {x: -230.5, y: 108}
+        - {x: -271.5, y: 101}
+        - {x: -288.5, y: 90}
+        - {x: -299.5, y: 87}
+        - {x: -321.5, y: 84}
+        - {x: -322.5, y: 81}
+        - {x: -333.5, y: 76}
+        - {x: -335.5, y: 71}
+        - {x: -344.5, y: 72}
+        - {x: -349.5, y: 69}
+        - {x: -373.5, y: 55}
+        - {x: -391.5, y: 41}
+        - {x: -416.5, y: 29}
+        - {x: -414.5, y: 14}
+        - {x: -435.5, y: 5}
+        - {x: -463.5, y: 2}
+        - {x: -489.5, y: -32}
+        - {x: -497.5, y: -62}
+        - {x: -497.5, y: -133}
+        - {x: -424.5, y: -147}
+        - {x: -370.5, y: -155}
+        - {x: -260.5, y: -168}
+        - {x: -167.5, y: -175}
+        - {x: 133.5, y: -175}
+        - {x: 241.5, y: -168}
+        - {x: 367.5, y: -155}
+        - {x: 491.5, y: -137}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

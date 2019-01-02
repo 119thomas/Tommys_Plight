@@ -1,0 +1,2 @@
+Here are some particle clouds as example. The Order in Layer is -40. You can change it if you select cloud, then go to it's Inspector - Particle System - Renderer and set "Order in Layer to what you need.
+We are trying to do some 2d sprite clouds, but now they are not looking good. We will try add them later. 

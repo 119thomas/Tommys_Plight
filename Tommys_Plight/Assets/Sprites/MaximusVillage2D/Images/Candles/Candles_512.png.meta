@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 23229e5ef62cb8543911c0ce14743bb8
+timeCreated: 1464632538
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Candles_512_0
+    21300002: Candles_512_1
+    21300004: Candles_512_2
+    21300006: Candles_512_3
+    21300008: Candles_512_4
+    21300010: Candles_512_5
+    21300012: Candles_512_6
+    21300014: Candles_512_7
+    21300016: Candles_512_8
+    21300018: Candles_512_9
+    21300020: Candles_512_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Candles_512_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 410
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 43.5}
+        - {x: -65.5, y: 43.5}
+        - {x: -65.5, y: -43.5}
+        - {x: 53.5, y: -43.5}
+        - {x: 54.5, y: -33.5}
+        - {x: 51.5, y: -30.5}
+        - {x: 65.5, y: 19.5}
+    - name: Candles_512_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 382
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 42.5}
+        - {x: 65.5, y: 57.5}
+        - {x: -65.5, y: 57.5}
+        - {x: -65.5, y: -57.5}
+        - {x: 55.5, y: -57.5}
+        - {x: 56.5, y: -46.5}
+        - {x: 52.5, y: -35.5}
+        - {x: 43.5, y: -34.5}
+    - name: Candles_512_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 405
+        width: 20
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Candles_512_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 404
+        width: 19
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Candles_512_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 403
+        width: 19
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Candles_512_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 35
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 74}
+        - {x: 7.5, y: 83}
+        - {x: -5.5, y: 83}
+        - {x: -13.5, y: 75}
+        - {x: -17.5, y: -49}
+        - {x: -17.5, y: -83}
+        - {x: 17.5, y: -83}
+        - {x: 17.5, y: -78}
+        - {x: 4.5, y: -55}
+    - name: Candles_512_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 139
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 71.5}
+        - {x: -36, y: 49.5}
+        - {x: -25, y: 43.5}
+        - {x: -22, y: -71.5}
+        - {x: 19, y: -71.5}
+        - {x: 36, y: 45.5}
+        - {x: 36, y: 71.5}
+    - name: Candles_512_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 64
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 89.5}
+        - {x: 28, y: 105.5}
+        - {x: 26, y: 107.5}
+        - {x: 25, y: 107.5}
+        - {x: 10, y: 112.5}
+        - {x: -12, y: 112.5}
+        - {x: -32, y: 102.5}
+        - {x: -32, y: 40.5}
+        - {x: -21, y: -112.5}
+        - {x: 20, y: -112.5}
+        - {x: 21, y: -111.5}
+        - {x: 22, y: -109.5}
+        - {x: 32, y: 70.5}
+    - name: Candles_512_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 159
+        width: 35
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 68}
+        - {x: -17.5, y: -28}
+        - {x: -17.5, y: -68}
+        - {x: 17.5, y: -68}
+        - {x: 17.5, y: -31}
+        - {x: 8.5, y: 68}
+    - name: Candles_512_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 158
+        width: 35
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -45}
+        - {x: -17.5, y: -83}
+        - {x: 17.5, y: -83}
+        - {x: 17.5, y: -32}
+        - {x: 7.5, y: 83}
+        - {x: -7.5, y: 83}
+    - name: Candles_512_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -21.5}
+        - {x: -40, y: -36.5}
+        - {x: 40, y: -36.5}
+        - {x: 40, y: -26.5}
+        - {x: 39, y: -20.5}
+        - {x: 5, y: 36.5}
+        - {x: -6, y: 36.5}
+        - {x: -10, y: 35.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

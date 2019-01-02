@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 0546c55eab3460547bace1a003b09f41
+timeCreated: 1483815050
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BuildSet_1_1024_0
+    21300002: BuildSet_1_1024_1
+    21300004: BuildSet_1_1024_2
+    21300006: BuildSet_1_1024_3
+    21300008: BuildSet_1_1024_4
+    21300010: BuildSet_1_1024_5
+    21300012: BuildSet_1_1024_6
+    21300014: BuildSet_1_1024_7
+    21300016: BuildSet_1_1024_8
+    21300018: BuildSet_1_1024_9
+    21300020: BuildSet_1_1024_10
+    21300022: BuildSet_1_1024_11
+    21300024: BuildSet_1_1024_12
+    21300026: BuildSet_1_1024_13
+    21300028: BuildSet_1_1024_14
+    21300030: BuildSet_1_1024_15
+    21300032: BuildSet_1_1024_16
+    21300034: BuildSet_1_1024_17
+    21300036: BuildSet_1_1024_18
+    21300038: BuildSet_1_1024_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuildSet_1_1024_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 768
+        width: 688
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 878
+        width: 208
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 540
+        width: 545
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 715
+        width: 208
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 678
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 506
+        width: 209
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_6
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 386
+        width: 156
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 387
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 513
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 275
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 283
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 284
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 283
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_13
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 283
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 155
+        width: 442
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 214
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 4
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 19
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildSet_1_1024_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 20
+        width: 400
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
